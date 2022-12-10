@@ -1,0 +1,149 @@
+@media (max-width: 1198.98px){
+    .header-img{
+        background-size: cover;
+        height: 80vh;
+        display: block;
+    }
+    .header-img h1{
+        padding-top: 50px;
+        font-size: 20px;
+        color: rgb(255, 255, 255);
+    }
+    .container-box{   
+    
+        width: 0px;
+        /* height: 150px; */
+        background-color: rgb(247, 245, 245);
+        border: none;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+
+
+    #input-text{
+        justify-items: center;
+        border: none;
+        padding: 10px;
+        width: 300px;
+        height: 40px;
+        border-radius: 10px;
+        font-size: 16px;
+    }
+
+    #btn{
+        padding: 10px;
+        border: none;
+        border-radius: 10px;
+        background-color: rgb(203, 20, 66);
+        margin-left: 20px;
+        color: white;
+        text-transform: uppercase;
+    }
+
+
+
+    .banner{
+        margin-top: 5vh;
+        height: 300px;
+        background-size:cover;
+    }
+
+
+    #container{
+        height: auto;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        margin: 30px;
+
+    }
+    .col1{
+        margin: 0 20px;
+        padding: 50px;
+        width: 200px;
+        margin:  10px 0;
+    }
+    .col2{
+        margin: 0 20px;
+        width: 200px;
+        padding: 50px;
+
+    }
+    .col3{
+        margin: 0 20px;
+        width: 200px;
+        padding: 50px;
+    }
+    .col4{
+        margin: 0 20px;
+        width: 200px;
+        padding: 50px;
+    }
+
+    .col1 h2{
+        margin-top: 25vh;
+        text-align:center;
+        font-weight: bold;
+        color: white;
+    }
+    .col2 h2{
+        margin-top: 25vh;
+        text-align:center;
+        font-weight: bold;
+        color: white;
+    }
+    .col3 h2{
+        margin-top: 25vh;
+        text-align:center;
+        font-weight: bold;
+        color: white;
+    }
+    .col4 h2{
+        margin-top: 25vh;
+        text-align:center;
+        font-weight: bold;
+        color: white;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .how-to{
+        height: 70vh;
+        display: flex;
+    }
+
+    .download-app{
+        color: white;
+       
+    }
+    .download-app p{
+        width: 200px;
+    }
+    .android{
+        width: 120px;
+    }
+    .ios{
+        width: 170px;
+    }
+
+    .mobile{
+        padding: 50px;
+        width: 500px;
+    }
+
+    .caption{
+        margin-top: 10vh;
+    }
+    
+
+
+
+}
